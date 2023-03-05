@@ -1,3 +1,2 @@
-1 ChatGPT
-2 streamlit
-3 streamlit-chat
+pip install streamlit 
+pip install openai  
