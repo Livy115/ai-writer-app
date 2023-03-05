@@ -40,4 +40,5 @@ def main():
     return response
 # call the main function
 main() 
+"pip install --upgrade pip"
 streamlit run script_name.py
